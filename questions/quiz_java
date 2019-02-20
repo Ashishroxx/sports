@@ -1,0 +1,62 @@
+
+
+Q 1 - Which of the following is not a keyword in java?
+
+A - static
+
+B - Boolean (=>)
+
+C - void
+
+C - private
+
+
+
+Q 2 - What is the size of int variable?
+
+A - 8 bit
+
+B - 16 bit
+
+C - 32 bit (=>)
+
+D - 64 bit
+
+
+
+Q 3 - What is the default value of long variable?
+
+A - 0
+
+B - 0.0
+
+C - 0L (=>)
+
+D - not defined
+
+
+
+Q 4 - Method Overriding is an example of
+
+A - Static Binding.
+
+B - Dynamic Binding. (=>)
+
+C - Both of the above.
+
+D - None of the above.
+
+
+
+Q 5 - What invokes a thread's run() method?
+
+A - JVM invokes the thread's run() method when the thread is initially executed. (=>)
+
+B - Main application running the thread.
+
+C - start() method of the thread class.
+
+D - None of the above.
+
+
+

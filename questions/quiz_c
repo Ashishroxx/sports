@@ -1,0 +1,36 @@
+
+
+Q 1 - First operating system designed using C programming language.
+
+A - DOS
+
+B - Windows
+
+C - UNIX (=>)
+
+D - Mac
+
+
+
+Q 2 - Which standard library function can return a pointer to the last occurrence of a character in a string?
+
+A - stchar()
+
+B - strrchr() (=>)
+
+C - strchar() & stchar()
+
+D - strrchar()
+
+
+
+Q 3 - Which of the following statement can be used to free the allocated memory?
+
+ remove(var-name);
+
+ free(var-name); (=>)
+
+ vanish(var-name);
+
+ erase(var-name);
+

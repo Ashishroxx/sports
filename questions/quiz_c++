@@ -1,0 +1,72 @@
+
+
+Q 1 - ‘cin’ is an __
+
+Class
+
+Object (=>)
+
+Package
+
+Namespace
+
+
+
+Q 2 - Pick up the valid declaration for overloading ++ in postfix form where T is the class name.
+
+A - T operator++();
+
+B - T operator++(int); (=>)
+
+C - T& operator++();
+
+D - T& operator++(int);
+
+
+
+Q 3 - How many number of arguments can a destructor of a class receives?
+
+A - 0 (=>)
+
+B - 1
+
+C - 2
+
+D - None of the above.
+
+
+
+Q 4 - The copy constructor is executed on
+
+A - Assigned one object to another object at its creation
+
+B - When objects are sent to function using call by value mechanism
+
+C - When the function return an object
+
+D - All the above. (=>)
+
+
+
+Q 5 - What is a generic class.
+
+A - Function template
+
+B - Class template (=>)
+
+B - Inherited class
+
+B - None of the above.
+
+Q 6- What is the return type of the conversion operator?
+a) void
+b) int
+c) float
+d) no return type (=>)
+
+
+Q 7- How many parameters does a conversion operator may take?
+a) 0 (=>)
+b) 1
+c) 2
+d) as many as possible

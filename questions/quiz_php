@@ -1,0 +1,62 @@
+
+
+Q 1 - Which of the following is correct about PHP?
+
+A - PHP can access cookies variables and set cookies.
+
+B - Using PHP, you can restrict users to access some pages of your website.
+
+C - It can encrypt data.
+
+D - All of the above. (=>)
+
+
+
+Q 2 - Which of the following type of variables are named and indexed collections of other values?
+
+A - Strings
+
+B - Arrays (=>)
+
+C - Objects
+
+D - Resources
+
+
+
+Q 3 - Which of the following is correct about constants?
+
+A - To define a constant you have to use define() function.
+
+B - To retrieve the value of a constant, you have to simply specify its name.
+
+C - Both of the above. (=>)
+
+D - None of the above.
+
+
+
+Q 4 - Which of the following magic constant of PHP returns class name?
+
+A - _LINE_
+
+B - _FILE_
+
+C - _FUNCTION_
+
+D - _CLASS_ (=>)
+
+
+
+Q 5 - Which of the following function is used to get environment variables in PHP?
+
+A - search()
+
+B - environment()
+
+C - env()
+
+D - getenv() (=>)
+
+
+

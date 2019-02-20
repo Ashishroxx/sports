@@ -1,0 +1,49 @@
+
+
+Q 1 - Which of the following is correct about features of JavaScript?
+
+A - JavaScript is a lightweight, interpreted programming language.
+
+B - JavaScript is designed for creating network-centric applications.
+
+C - JavaScript is complementary to and integrated with Java.
+
+D - All of the above. (=>)
+
+
+
+Q 2 - How can you get the type of arguments passed to a function?
+
+A - using typeof operator (=>)
+
+B - using getType function
+
+C - Both of the above.
+
+D - None of the above.
+
+
+
+Q 3 - Which built-in method removes the last element from an array and returns that element?
+
+A - last()
+
+B - get()
+
+C - pop()  (=>)
+
+D - None of the above.
+
+
+
+Q 4 - Which built-in method returns the calling string value converted to lower case?
+
+A - toLowerCase() (=>)
+
+B - toLower()
+
+C - changeCase(case)
+
+D - None of the above.
+
+

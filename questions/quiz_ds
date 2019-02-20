@@ -1,0 +1,74 @@
+
+
+Q 1 - Prefix notation is alsow known as
+
+A - Reverse Polish Notation
+
+B - Reverse Notation
+
+C - Polish Reverse Notation
+
+D - Polish Notation (=>)
+
+
+
+Q 2 - Stack is used for
+
+A - CPU Resource Allocation
+
+B - Breadth First Traversal
+
+C - Recursion  (=>)
+
+D - None of the above
+
+
+
+Q 3 - Quick sort algorithm is an example of
+
+A - Greedy approach
+
+B - Improved binary search
+
+C - Dynamic Programming
+
+D - Divide and conquer (=>)
+
+
+
+Q 4 - What could be the worst case height of an AVL tree?
+
+A - 0.97 log n
+
+B - 2.13 log n
+
+C - 1.44 log n  (=>)
+
+D - n2 log n
+
+
+
+Q 5 - Which of the following is example of in-place algorithm?
+
+A - Bubble Sort
+
+B - Merge Sort  (=>)
+
+C - Insertion Sort
+
+D - All of the above
+
+
+
+Q 6 - In C programming, when we remove an item from bottom of the stack, then −
+
+A - The stack will fall down.
+
+B - Stack will rearranged items. (=>)
+
+C - It will convert to LIFO
+
+D - This operation is not allowed.
+
+
+
